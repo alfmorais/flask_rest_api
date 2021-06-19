@@ -1,0 +1,11 @@
+Exercicio para praticar
+
+1) Desenvolva uma API que gerencie um cadastro de tarefas
+2) A API terá uma lista de tarefas que deverá ter os seguintes campos:
+    2.1) ID
+    2.2) RESPONSÁVEL
+    2.3) TAREFA
+    2.4) STATUS
+3) A API deve permitir listar todas as tarefas e tambem incluir novas tarefas
+4) A API deve permitir consultar uma tarefa atráves do ID, alterar o status de uma tarefa e tambem exluir uma tarefa
+5) Nenhuma alteração deverá ser permitida além do status da tarefa.
