@@ -56,6 +56,8 @@ def lista_desenvolvedores():
         desenvolvedores.append(dados)
         return jsonify({"status": "sucesso",
                         "mensagem": "registro inserido!"})
+    elif request.method == "GET":
+        return jsonify(desenvolvedores)
 
 
 # configurando o app para debug True
