@@ -25,7 +25,7 @@ desenvolvedores = [
 
 
 # definindo as rotas
-# testando a primeira rota do app
+# testando a primeira rota do app, consultar, alterar e deletar
 @app.route('/dev/<int:id>/', methods=["GET", "PUT", "DELETE"])
 def desenvolvedor(id):
     if request.method == "GET":
