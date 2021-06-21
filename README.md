@@ -1,6 +1,17 @@
 # Desenvolvimento Avançado Python com Flask e REST API
 # Digital Innovation One
 
+|No.|Descrição                                                        |
+|---|-----------------------------------------------------------------|
+|1  |Introdução ao Rest Api com Flask                                 |
+|2  |Instalando Flask, criando ambiente virtual e introdução a Postman|
+|3  |Utilizando métodos, biblioteca Request e JSON                    |
+|4  |Desenvolvendo uma Rest Api completa                              |
+|5  |Desenvolvendo uma REST API com a extensão Flask-RESTful          |
+|6  |Manipulando banco de dados com SQLAlchemy                        |
+|7  |Rest Api com persistência em banco de dados                      |
+
+
 ## 1. O que é uma API
 - É um conjunto de rotinas para acesso a um aplicativo / software / plataforma baseado na web.
 - Acrônimo de Application Programming Interface, Interface de Programações de Aplicativos.
