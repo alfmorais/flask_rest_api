@@ -1,0 +1,10 @@
+Exercicio para praticar
+
+Acrescentar na API de habilidades (módulo habilidades) os métodos PUT, POST, DELETE.
+
+O método POST deverá inserir uma nova habilidade na lista
+
+O método PUT a partir de um ID (identificador de posição), deverá alterar o nome da habilidade que está naquela posiçãoDELETE.
+
+O método DELETE deverá deletar uma habilidade que esteja na posição informada na requisição.
+
